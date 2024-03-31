@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="gebish.geb.junit" type="repository">
+    <properties maven-id="org.gebish:geb-junit:5.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gebish/geb-junit/5.0/geb-junit-5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gebish/geb-core/5.0/geb-core-5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gebish/geb-ast/5.0/geb-ast-5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-macro/3.0.8/groovy-macro-3.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gebish/geb-waiting/5.0/geb-waiting-5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gebish/geb-implicit-assertions/5.0/geb-implicit-assertions-5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gebish/geb-exceptions/5.0/geb-exceptions-5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/threeten/threeten-extra/1.4/threeten-extra-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-lagarto/5.1.5/jodd-lagarto-5.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-core/5.1.5/jodd-core-5.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-log/5.1.5/jodd-log-5.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-templates/3.0.8/groovy-templates-3.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-xml/3.0.8/groovy-xml-3.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
